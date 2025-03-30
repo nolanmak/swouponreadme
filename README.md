@@ -1,5 +1,11 @@
 Meta README for SwoopPon: Liquidity Rewards System
+
+
 Repo Link: https://github.com/DeluxeRaph/SwoopPon
+
+
+
+
 📝 Project Summary
 
 SwoopPon is a smart contract system integrated with Uniswap V4 that rewards liquidity providers by minting SwoopPon tokens for swaps and offering fee discounts to high-balance users. The system includes a dynamic fee adjustment mechanism and leverages Chainlink oracles for price feeds.
