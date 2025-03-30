@@ -100,8 +100,10 @@ This project is licensed under the ISC License.
 
 Contributions are welcome! Please submit a pull request with detailed explanations for improvements.
 
-Tokenomics: https://github.com/derekmeegan/swoupon_tokenomics
+
 Meta README: Swoupon Tokenomics Calculation Library
+
+Tokenomics: https://github.com/derekmeegan/swoupon_tokenomics
 
 This meta README provides an overview and context for the Swoupon Tokenomics Calculation Library, highlighting its architecture, mathematical foundation, and integration points.
 
